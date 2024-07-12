@@ -1,0 +1,40 @@
+
+# NumPy
+# 数値計算ライブラリで、配列操作や線形代数、統計などの計算に便利です。
+# 例：import numpy as np
+
+# Pandas
+# データ操作および分析のためのライブラリ。データフレームを用いたデータ処理が簡単になります。
+# 例：import pandas as pd
+
+# Matplotlib
+# グラフ描画ライブラリで、データの可視化に役立ちます。
+# 例：import matplotlib.pyplot as plt
+
+# Scikit-learn
+# 機械学習ライブラリで、分類、回帰、クラスタリングなどのアルゴリズムが含まれています。
+# 例：from sklearn.model_selection import train_test_split
+
+# Requests
+# HTTPリクエストを送るためのライブラリで、ウェブスクレイピングやAPIとの連携に使用されます。
+# 例：import requests
+
+# BeautifulSoup
+# HTMLやXMLからデータを抽出するためのライブラリで、ウェブスクレイピングに便利です。
+# 例：from bs4 import BeautifulSoup
+
+# Collections
+# データ構造ライブラリで、deque、Counter、OrderedDictなどの便利なコレクションクラスが含まれています。
+# 例：from collections import deque
+
+# Heapq
+# ヒープキューアルゴリズムを提供するライブラリで、優先度キューを使用する問題に役立ちます。
+# 例：import heapq
+
+# Itertools
+# イテレータ生成ライブラリで、反復処理に便利なツールが含まれています。
+# 例：import itertools
+
+#  Functools
+# 高階関数を提供するライブラリで、関数の操作に役立ちます。
+# 例：import functools
