@@ -1,0 +1,22 @@
+/* Import a retro font */
+/* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); */
+
+.home-container {
+  background-color:rgb(49, 49, 110) ;
+  padding: 2rem;
+  color: rgb(49, 49, 110) ;
+  font-family: 'Press Start 2P', cursive;
+  border: 3px solid #ff6ec7;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ff6ec7, 0 0 20px #ff6ec7, 0 0 30px #ff6ec7, 0 0 40px #ff6ec7;
+}
+
+.home-container h1 {
+  color: #ff6ec7;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.home-container p {
+  margin: 1rem 0;
+}
